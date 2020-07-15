@@ -1,7 +1,7 @@
-# ![https://mouredev.com](./mouredev_emote.png) Hello, my name is Brais Moure
+# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hello, my name is Brais Moure
 ## Freelance full-stack iOS & Android engineer
 
-![https://github.com/mouredev](./mouredev_github.jpg)
+![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github.jpg)
 
 I'm a professional software developer for more than ten years.
 
