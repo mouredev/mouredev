@@ -69,7 +69,7 @@ If you want to join our community, learn App coding, and help the continuity of 
 [![YouTube](https://img.shields.io/badge/YouTube-Twitch_live_backups-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevbackups)
 
 ## The community "Code Weekly Challenge" projects:
-![https://twitimer.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_weecly_challenge.png)
+![https://twitimer.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_weekly_challenge.png)
 
 [![GitHub Followers](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Public%20Swift/iOS%20challenge%20repository&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
 [![GitHub Followers](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Public%20Kotlin/Android%20challenge%20repository&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
