@@ -47,9 +47,10 @@ And more...
 [![TikTok](https://img.shields.io/badge/TikTok-@mouredev-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@mouredev)
 [![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
 </br>
+[![Link](https://img.shields.io/badge/Link_Site-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
 [![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
-[![Web](https://img.shields.io/badge/My_Website-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
+[![Web](https://img.shields.io/badge/My_Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
 
 ## The ⏳Twitimer community project:
 ![https://twitimer.com](https://raw.githubusercontent.com/mouredev/mouredev/master/twitimer_banner.png)
@@ -137,8 +138,10 @@ Small weekly programming challenges to improve our skills (mainly using [Swift](
 </table>
 
 
-## Contact me:
+## Contact & support:
 
-[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MESSAGE+COFFEE_(FAST_RESPONSE)_Thank_you!-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
+[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MESSAGE+COFFEE_(FAST_RESPONSE)_Thank_you!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
 </br>
 [![Email](https://img.shields.io/badge/braismoure@mouredev.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+</br>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-support_my_work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
