@@ -69,13 +69,21 @@ If you want to join our community, learn App coding, and help the continuity of 
 [![YouTube](https://img.shields.io/badge/YouTube-Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevapps)
 [![YouTube](https://img.shields.io/badge/YouTube-Twitch_live_backups-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevbackups)
 
-## The community "Code Weekly Challenge" projects:
+## The community "Code Challenge" projects:
 ![https://mouredev.com/discord](https://github.com/mouredev/mouredev/blob/master/mouredev_weekly_challenge.png)
 
-[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Public%20Swift/iOS%20challenge%20repository&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
-[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Public%20Kotlin/Android%20challenge%20repository&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
+### Weekly
+
+[![GitHub Weekly Swift](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Public%20Swift/iOS%20challenge%20repository&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
+[![GitHub Weekly Kotlin](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Public%20Kotlin/Android%20challenge%20repository&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
 
 Small weekly programming challenges to improve our skills (mainly using [Swift](https://github.com/apple/swift) and [Kotlin](https://github.com/JetBrains/kotlin)). Every **Monday** a new challenge is added in the repositories and last week's challenge is resolved on GitHub and Twitch.
+
+### Monthly
+
+Monthly challenges to create small Apps based on a few requirements. A new challenge every **first Monday** of the month.
+
+[![GitHub Monthly App](https://img.shields.io/github/stars/mouredev/Monthly-App-Challenge-2022?label=Public%20App%20challenge%20repository&style=social)](https://github.com/mouredev/Monthly-App-Challenge-2022)
 
 [![Twitch](https://img.shields.io/badge/Twitch-Challenge_live_coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
 [![Discord](https://img.shields.io/badge/Discord-Challenge_chat_channel-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
