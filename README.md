@@ -7,7 +7,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
-
+ 
 I'm a professional software developer for more than ten years.
 
 In 2014 I left my job at a multinational and create [**MoureDev**](https://mouredev.com), the reflection of my dream to grow as a professional within the software development industry.
