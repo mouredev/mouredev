@@ -74,6 +74,11 @@ If you want to join our community, learn App coding, and help the continuity of 
 [![YouTube](https://img.shields.io/badge/YouTube-Twitch_live_backups-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevbackups)
 
 ## The community "Code Challenge" projects:
+
+Challenges index repository
+
+[![GitHub Code Challenges](https://img.shields.io/github/stars/mouredev/Code-Challenges?label=Public%20code/iOS%20challenge%20repository&style=social)](https://github.com/mouredev/Code-Challenges)
+
 ![https://mouredev.com/discord](https://github.com/mouredev/mouredev/blob/master/mouredev_weekly_challenge.png)
 
 ### Weekly
