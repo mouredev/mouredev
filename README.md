@@ -1,14 +1,15 @@
 # ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hello, my name is Brais Moure
 ### Freelance full-stack iOS & Android engineer
 
+![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
+[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
-
-I'm a professional software developer for more than ten years.
+I'm a professional software engineer for more than twelve years.
 
 In 2014 I left my job at a multinational and create [**MoureDev**](https://mouredev.com), the reflection of my dream to grow as a professional within the software development industry.
 Since then I have dedicated myself to specializing in mobile application development, collaborating with companies from different parts of the world, creating more than 60 Apps and founding my own startup.
@@ -56,23 +57,6 @@ And more...
 [![Apple](https://img.shields.io/github/stars/mouredev/Apple-Developer-Roadmap?label=Apple%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Apple-Developer-Roadmap)
 [![Android](https://img.shields.io/github/stars/mouredev/Android-Developer-Roadmap?label=Android%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Android-Developer-Roadmap)
 
-## The ⏳Twitimer community project:
-![https://twitimer.com](https://raw.githubusercontent.com/mouredev/mouredev/master/twitimer_banner.png)
-
-[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-iOS?label=Public%20iOS%20App%20repository&style=social)](https://github.com/mouredev/Twitimer-iOS)
-[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-Android?label=Public%20Android%20App%20repository&style=social)](https://github.com/mouredev/Twitimer-Android)
-
-Twitimer is a free **[iOS](https://apps.apple.com/us/app/twitimer-twitch-guide/id1564592351)** and **[Android](https://play.google.com/store/apps/details?id=com.mouredev.twitimer)** App that has been developed to help Twitch users, but especially thinking about generating educational content for the entire community of programmers interested in the world of apps development for mobile devices. They have made the project possible (I want it to be a free and constantly evolving App).
-
-If you want to join our community, learn App coding, and help the continuity of the project, you can find us at:
-
-[![Web](https://img.shields.io/badge/Twitimer.com-Official_site-3A1C66?style=for-the-badge&logoColor=white&labelColor=101010)](https://twitimer.com)
-[![Twitch](https://img.shields.io/badge/Twitch-Live_coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-Feedback_and_bugs-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
-</br>
-[![YouTube](https://img.shields.io/badge/YouTube-Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevapps)
-[![YouTube](https://img.shields.io/badge/YouTube-Twitch_live_backups-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevbackups)
-
 ## The community "Code Challenge" projects:
 
 Challenges index repository
@@ -96,6 +80,23 @@ Monthly challenges to create small Apps based on a few requirements. A new chall
 
 [![Twitch](https://img.shields.io/badge/Twitch-Challenge_live_coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
 [![Discord](https://img.shields.io/badge/Discord-Challenge_chat_channel-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
+
+## The ⏳Twitimer community project:
+![https://twitimer.com](https://raw.githubusercontent.com/mouredev/mouredev/master/twitimer_banner.png)
+
+[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-iOS?label=Public%20iOS%20App%20repository&style=social)](https://github.com/mouredev/Twitimer-iOS)
+[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-Android?label=Public%20Android%20App%20repository&style=social)](https://github.com/mouredev/Twitimer-Android)
+
+Twitimer is a free **[iOS](https://apps.apple.com/us/app/twitimer-twitch-guide/id1564592351)** and **[Android](https://play.google.com/store/apps/details?id=com.mouredev.twitimer)** App that has been developed to help Twitch users, but especially thinking about generating educational content for the entire community of programmers interested in the world of apps development for mobile devices. They have made the project possible (I want it to be a free and constantly evolving App).
+
+If you want to join our community, learn App coding, and help the continuity of the project, you can find us at:
+
+[![Web](https://img.shields.io/badge/Twitimer.com-Official_site-3A1C66?style=for-the-badge&logoColor=white&labelColor=101010)](https://twitimer.com)
+[![Twitch](https://img.shields.io/badge/Twitch-Live_coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
+[![Discord](https://img.shields.io/badge/Discord-Feedback_and_bugs-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
+</br>
+[![YouTube](https://img.shields.io/badge/YouTube-Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevapps)
+[![YouTube](https://img.shields.io/badge/YouTube-Twitch_live_backups-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevbackups)
 
 ## Some YouTube videos:
 
