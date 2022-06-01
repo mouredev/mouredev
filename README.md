@@ -61,7 +61,7 @@ And more...
 
 Challenges index repository
 
-[![GitHub Code Challenges](https://img.shields.io/github/stars/mouredev/Code-Challenges?label=Public%20code/iOS%20challenge%20repository&style=social)](https://github.com/mouredev/Code-Challenges)
+[![GitHub Code Challenges](https://img.shields.io/github/stars/mouredev/Code-Challenges?label=Public%20code%20challenge%20repository&style=social)](https://github.com/mouredev/Code-Challenges)
 
 ![https://mouredev.com/discord](https://github.com/mouredev/mouredev/blob/master/mouredev_weekly_challenge.png)
 
