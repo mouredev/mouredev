@@ -8,6 +8,7 @@
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
 I'm a professional software engineer for more than twelve years.
 
