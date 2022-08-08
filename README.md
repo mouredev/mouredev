@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hello, my name is Brais Moure
+# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre el Brais Moure 👋
 ### Freelance full-stack iOS & Android engineer
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
@@ -10,14 +10,14 @@
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-I'm a professional software engineer for more than twelve years.
+Soy ingeniero de software profesional desde hace más de doce años.
 
-In 2014 I left my job at a multinational and create [**MoureDev**](https://mouredev.com), the reflection of my dream to grow as a professional within the software development industry.
-Since then I have dedicated myself to specializing in mobile application development, collaborating with companies from different parts of the world, creating more than 60 Apps and founding my own startup.
+En 2014 dejé mi trabajo en una multinacional y creé [**MoureDev**](https://mouredev.com), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
+Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 100 Apps y fundando mi propia startup.
 
-In 2018 I return to my small hometown in Galicia (Spain), and I begin to create programming content and share my experience as a developer on platforms such as YouTube, Udemy and Twitch. I want to return all the knowledge that the community has shared with me for free.
+En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear contenido de programación y compartir mi experiencia como desarrollador en plataformas como YouTube, Twitch o Udemy. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
 
-## Skills:
+## Tecnologías:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
@@ -36,9 +36,9 @@ In 2018 I return to my small hometown in Galicia (Spain), and I begin to create 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
-And more...
+Y alguna más...
 
-## Find me at:
+## Encuéntrame en:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevapps)
 [![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
@@ -54,52 +54,46 @@ And more...
 [![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
 [![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
 
-## App developer roadmaps:
+## Mis guías de estudio iOS y Android:
 [![Apple](https://img.shields.io/github/stars/mouredev/Apple-Developer-Roadmap?label=Apple%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Apple-Developer-Roadmap)
 [![Android](https://img.shields.io/github/stars/mouredev/Android-Developer-Roadmap?label=Android%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Android-Developer-Roadmap)
 
-## The community "Code Challenge" projects:
+## Los retos de programación de la comunidad:
 
-Challenges index repository
+<a href="https://retosdeprogramacion.com"><img src="./mouredev_retos_programacion.png" style="height: 70%; width:70%;"/></a>
+### Retos Semanales y Mensuales para mejorar nuestra lógica de programación y portfolio de aplicaciones [retosdeprogramacion.com](https://retosdeprogramacion.com)
 
-[![GitHub Code Challenges](https://img.shields.io/github/stars/mouredev/Code-Challenges?label=Public%20code%20challenge%20repository&style=social)](https://github.com/mouredev/Code-Challenges)
+Índice en GitHub
 
-![https://mouredev.com/discord](https://github.com/mouredev/mouredev/blob/master/mouredev_weekly_challenge.png)
+[![GitHub Code Challenges](https://img.shields.io/github/stars/mouredev/Code-Challenges?label=Retos%20de%20programacion&style=social)](https://github.com/mouredev/Code-Challenges)
 
-### Weekly
+### Semanales
 
-[![GitHub Weekly Swift](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Public%20Swift/iOS%20challenge%20repository&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
-[![GitHub Weekly Kotlin](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Public%20Kotlin/Android%20challenge%20repository&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
+Cada lunes un nuevo reto para mejorar nuestra lógica de programación.
 
-Small weekly programming challenges to improve our skills (mainly using [Swift](https://github.com/apple/swift) and [Kotlin](https://github.com/JetBrains/kotlin)). Every **Monday** a new challenge is added in the repositories and last week's challenge is resolved on GitHub and Twitch.
+[![GitHub Weekly Kotlin](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Retos%20Semanales&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
+[![GitHub Weekly Swift](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Retos%20Semanales%20en%20Swift&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
 
-### Monthly
+### Mensuales
 
-Monthly challenges to create small Apps based on a few requirements. A new challenge every **first Monday** of the month.
+Cada mes una nueva aplicación para añadir a nuestro portfolio.
 
-[![GitHub Monthly App](https://img.shields.io/github/stars/mouredev/Monthly-App-Challenge-2022?label=Public%20App%20challenge%20repository&style=social)](https://github.com/mouredev/Monthly-App-Challenge-2022)
+[![GitHub Monthly App](https://img.shields.io/github/stars/mouredev/Monthly-App-Challenge-2022?label=Retos%20Mensuales&style=social)](https://github.com/mouredev/Monthly-App-Challenge-2022)
 
 [![Twitch](https://img.shields.io/badge/Twitch-Challenge_live_coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
 [![Discord](https://img.shields.io/badge/Discord-Challenge_chat_channel-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
 
-## The ⏳Twitimer community project:
+## ⏳Twitimer: El proyecto de la comunidad:
 ![https://twitimer.com](https://raw.githubusercontent.com/mouredev/mouredev/master/twitimer_banner.png)
 
-[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-iOS?label=Public%20iOS%20App%20repository&style=social)](https://github.com/mouredev/Twitimer-iOS)
-[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-Android?label=Public%20Android%20App%20repository&style=social)](https://github.com/mouredev/Twitimer-Android)
+[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-iOS?label=Proyecto%20iOS&style=social)](https://github.com/mouredev/Twitimer-iOS)
+[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-Android?label=Proyecto%20Android%20&style=social)](https://github.com/mouredev/Twitimer-Android)
 
-Twitimer is a free **[iOS](https://apps.apple.com/us/app/twitimer-twitch-guide/id1564592351)** and **[Android](https://play.google.com/store/apps/details?id=com.mouredev.twitimer)** App that has been developed to help Twitch users, but especially thinking about generating educational content for the entire community of programmers interested in the world of apps development for mobile devices. They have made the project possible (I want it to be a free and constantly evolving App).
+Twitimer es una aplicación gratuita **[iOS](https://apps.apple.com/us/app/twitimer-twitch-guide/id1564592351)** y **[Android](https://play.google.com/store/apps/details?id=com.mouredev.twitimer)** que ha sido desarrollada para ayudar a los usuarios de Twitch, pero sobre todo pensando en generar contenido educativo para toda la comunidad de programadores interesados en el mundo del desarrollo de apps para dispositivos móviles. Tienes todo el código público para su descarga.
 
-If you want to join our community, learn App coding, and help the continuity of the project, you can find us at:
+[![Web](https://img.shields.io/badge/Twitimer.com-Web_oficial-3A1C66?style=for-the-badge&logoColor=white&labelColor=101010)](https://twitimer.com)
 
-[![Web](https://img.shields.io/badge/Twitimer.com-Official_site-3A1C66?style=for-the-badge&logoColor=white&labelColor=101010)](https://twitimer.com)
-[![Twitch](https://img.shields.io/badge/Twitch-Live_coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-Feedback_and_bugs-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
-</br>
-[![YouTube](https://img.shields.io/badge/YouTube-Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevapps)
-[![YouTube](https://img.shields.io/badge/YouTube-Twitch_live_backups-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevbackups)
-
-## Some YouTube videos:
+## Algunos vídeos en YouTube:
 
 <table style="width:100%">
   <tr>
@@ -157,10 +151,10 @@ If you want to join our community, learn App coding, and help the continuity of 
 </table>
 
 
-## Contact & support:
+## Contacto y apoyo:
 
-[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MESSAGE+COFFEE_(FAST_RESPONSE)_Thank_you!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
+[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
 </br>
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
 </br>
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-support_my_work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
