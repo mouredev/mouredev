@@ -60,7 +60,8 @@ Y alguna más...
 
 ## Los retos de programación de la comunidad:
 
-<a href="https://retosdeprogramacion.com"><img src="./mouredev_retos_programacion.png" style="height: 70%; width:70%;"/></a>
+![https://retosdeprogramacion.com](./mouredev_retos_programacion.png)
+
 ### Retos Semanales y Mensuales para mejorar nuestra lógica de programación y portfolio de aplicaciones [retosdeprogramacion.com](https://retosdeprogramacion.com)
 
 Índice en GitHub
