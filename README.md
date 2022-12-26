@@ -66,22 +66,19 @@ Y alguna más...
 
 ### Retos Semanales y Mensuales para mejorar nuestra lógica de programación y portfolio de aplicaciones [retosdeprogramacion.com](https://retosdeprogramacion.com)
 
-Índice en GitHub
-
-[![GitHub Code Challenges](https://img.shields.io/github/stars/mouredev/Code-Challenges?label=Retos%20de%20programacion&style=social)](https://github.com/mouredev/Code-Challenges)
-
 ### Semanales
 
-Cada lunes un nuevo reto para mejorar nuestra lógica de programación.
+Cada semana un nuevo reto para mejorar nuestra lógica de programación.
 
-[![GitHub Weekly Kotlin](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Retos%20Semanales&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
-[![GitHub Weekly Swift](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Retos%20Semanales%20en%20Swift&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
+[![GitHub Weekly 2023](https://img.shields.io/github/stars/mouredev/retos-programacion-2023?label=Retos%20Semanales%202023&style=social)](https://github.com/mouredev/retos-programacion-2023)
+[![GitHub Weekly Kotlin 2022](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Retos%20Semanales%202022&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
+[![GitHub Weekly Swift 2022](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Retos%20Semanales%20Swift%202022&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
 
 ### Mensuales
 
 Cada mes una nueva aplicación para añadir a nuestro portfolio.
 
-[![GitHub Monthly App](https://img.shields.io/github/stars/mouredev/Monthly-App-Challenge-2022?label=Retos%20Mensuales&style=social)](https://github.com/mouredev/Monthly-App-Challenge-2022)
+[![GitHub Monthly App](https://img.shields.io/github/stars/mouredev/Monthly-App-Challenge-2022?label=Retos%20Mensuales%202022&style=social)](https://github.com/mouredev/Monthly-App-Challenge-2022)
 
 [![Twitch](https://img.shields.io/badge/Twitch-Challenge_live_coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
 [![Discord](https://img.shields.io/badge/Discord-Challenge_chat_channel-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
