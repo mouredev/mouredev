@@ -28,6 +28,7 @@ En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear conten
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
@@ -83,71 +84,65 @@ Cada mes una nueva aplicación para añadir a nuestro portfolio.
 [![Twitch](https://img.shields.io/badge/Twitch-Challenge_live_coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
 [![Discord](https://img.shields.io/badge/Discord-Challenge_chat_channel-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
 
-## ⏳Twitimer: El proyecto de la comunidad:
-![https://twitimer.com](https://raw.githubusercontent.com/mouredev/mouredev/master/twitimer_banner.png)
+## Python desde cero: Curso gratis
+![https://mouredev.com/python](./python_banner.png)
 
-[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-iOS?label=Proyecto%20iOS&style=social)](https://github.com/mouredev/Twitimer-iOS)
-[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-Android?label=Proyecto%20Android%20&style=social)](https://github.com/mouredev/Twitimer-Android)
-
-Twitimer es una aplicación gratuita **[iOS](https://apps.apple.com/us/app/twitimer-twitch-guide/id1564592351)** y **[Android](https://play.google.com/store/apps/details?id=com.mouredev.twitimer)** que ha sido desarrollada para ayudar a los usuarios de Twitch, pero sobre todo pensando en generar contenido educativo para toda la comunidad de programadores interesados en el mundo del desarrollo de apps para dispositivos móviles. Tienes todo el código público para su descarga.
-
-[![Web](https://img.shields.io/badge/Twitimer.com-Web_oficial-3A1C66?style=for-the-badge&logoColor=white&labelColor=101010)](https://twitimer.com)
+[![Curso Python](https://img.shields.io/github/stars/mouredev/hello-python?label=Curso%20Python%20desde%20cero&style=social)](https://github.com/mouredev/hello-python)
 
 ## Algunos vídeos en YouTube:
 
 <table style="width:100%">
-  <tr>
-    <td>
-	<a href="https://youtu.be/MyzZnIR5gC4">
-  		<img src="http://i3.ytimg.com/vi/MyzZnIR5gC4/maxresdefault.jpg">
-	</a>
-	</td>
-    <td>
-	<a href="https://youtu.be/P6ko_I5GHbs">
-  		<img src="http://i3.ytimg.com/vi/P6ko_I5GHbs/maxresdefault.jpg">
-	</a>
-	</td>
-    <td>
-	<a href="https://youtu.be/hGIzLGgf3Bo">
-  		<img src="http://i3.ytimg.com/vi/hGIzLGgf3Bo/maxresdefault.jpg">
-	</a>
-	</td>
-  </tr>
-  <tr>
-    <td>
-	<a href="https://youtu.be/BQaxPwZWboA">
-  		<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
-	</a>
-	</td>
-	<td>
-	<a href="https://youtu.be/ebQphhLpJG0">
-  		<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
-	</a>
-	</td>
-   <td>
-	<a href="https://youtu.be/X5fjEEmXR2s">
-  		<img src="http://i3.ytimg.com/vi/X5fjEEmXR2s/maxresdefault.jpg">
-	</a>
-	</td>
-  </tr>
-    <tr>
-    <td>
-	<a href="https://youtu.be/1IpkZhkPC_I">
-  		<img src="http://i3.ytimg.com/vi/1IpkZhkPC_I/maxresdefault.jpg">
-	</a>
-	</td>
-	<td>
-	<a href="https://youtu.be/HH7U3tA0S8M">
-  		<img src="http://i3.ytimg.com/vi/HH7U3tA0S8M/maxresdefault.jpg">
-	</a>
-	</td>
-   <td>
-	<a href="https://youtu.be/vhrus08jp6s">
-  		<img src="http://i3.ytimg.com/vi/vhrus08jp6s/maxresdefault.jpg">
-	</a>
-	</td>
-  </tr>
-</table>
+<tr>
+<td>
+<a href="https://youtu.be/Kp4Mvapo5kc">
+<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/-pWSQYpkkjk">
+<img src="http://i3.ytimg.com/vi/-pWSQYpkkjk/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/pFyAu4R684s">
+<img src="http://i3.ytimg.com/vi/pFyAu4R684s/maxresdefault.jpg">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://youtu.be/SavaU66KxQY">
+<img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/GoAxsdg0Xbs">
+<img src="http://i3.ytimg.com/vi/GoAxsdg0Xbs/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/96B6gZV3Vwk">
+<img src="http://i3.ytimg.com/vi/96B6gZV3Vwk/maxresdefault.jpg">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://youtu.be/BQaxPwZWboA">
+<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/Wfh0FYR0z6I">
+<img src="http://i3.ytimg.com/vi/Wfh0FYR0z6I/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/ebQphhLpJG0">
+<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
+</a>
+</td>
+</tr>
 </table>
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
