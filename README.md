@@ -43,7 +43,9 @@ Y alguna más...
 
 ## Encuéntrame en:
 
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevapps)
+[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@mouredev)
+[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_TV-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@mouredevtv)
+</br>
 [![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
 [![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
 </br>
@@ -61,33 +63,31 @@ Y alguna más...
 [![Apple](https://img.shields.io/github/stars/mouredev/Apple-Developer-Roadmap?label=Apple%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Apple-Developer-Roadmap)
 [![Android](https://img.shields.io/github/stars/mouredev/Android-Developer-Roadmap?label=Android%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Android-Developer-Roadmap)
 
-## Los retos de programación de la comunidad:
+# Los proyectos de la comunidad
 
-![https://retosdeprogramacion.com](./mouredev_retos_programacion.png)
+## Retos de programación de la comunidad:
 
-### Retos Semanales y Mensuales para mejorar nuestra lógica de programación y portfolio de aplicaciones [retosdeprogramacion.com](https://retosdeprogramacion.com)
+![https://retosdeprogramacion.com](./retos_programacion_banner.png)
 
-### Semanales
-
-Cada semana un nuevo reto para mejorar nuestra lógica de programación.
+#### Cada semana un nuevo reto para mejorar nuestra lógica de programación desde [retosdeprogramacion.com](https://retosdeprogramacion.com)
 
 [![GitHub Weekly 2023](https://img.shields.io/github/stars/mouredev/retos-programacion-2023?label=Retos%20Semanales%202023&style=social)](https://github.com/mouredev/retos-programacion-2023)
 [![GitHub Weekly Kotlin 2022](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Retos%20Semanales%202022&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
-[![GitHub Weekly Swift 2022](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Retos%20Semanales%20Swift%202022&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
-
-### Mensuales
-
-Cada mes una nueva aplicación para añadir a nuestro portfolio.
-
-[![GitHub Monthly App](https://img.shields.io/github/stars/mouredev/Monthly-App-Challenge-2022?label=Retos%20Mensuales%202022&style=social)](https://github.com/mouredev/Monthly-App-Challenge-2022)
-
-[![Twitch](https://img.shields.io/badge/Twitch-Challenge_live_coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-Challenge_chat_channel-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
 
 ## Python desde cero: Curso gratis
 ![https://mouredev.com/python](./python_banner.png)
 
 [![Curso Python](https://img.shields.io/github/stars/mouredev/hello-python?label=Curso%20Python%20desde%20cero&style=social)](https://github.com/mouredev/hello-python)
+
+## Git & GitHub desde cero: Curso gratis
+![https://mouredev.com/git](./git_github_banner.png)
+
+[![Curso Git](https://img.shields.io/github/stars/mouredev/hello-git?label=Curso%20Git%20y%20GitHub&style=social)](https://github.com/mouredev/hello-git)
+
+## Un día, un lenguaje: Primeros pasos en 10 lenguajes
+![https://mouredev.com/lenguajes](./un_dia_un_lenguaje_banner.png)
+
+[![Curso Lenguajes](https://img.shields.io/github/stars/mouredev/one-day-one-language?label=Un%20día,%20un%20lenguaje&style=social)](https://github.com/mouredev/one-day-one-language)
 
 ## Algunos vídeos en YouTube:
 
@@ -104,8 +104,8 @@ Cada mes una nueva aplicación para añadir a nuestro portfolio.
 </a>
 </td>
 <td>
-<a href="https://youtu.be/pFyAu4R684s">
-<img src="http://i3.ytimg.com/vi/pFyAu4R684s/maxresdefault.jpg">
+<a href="https://youtu.be/3GymExBkKjE">
+<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
 </a>
 </td>
 </tr>
@@ -121,8 +121,8 @@ Cada mes una nueva aplicación para añadir a nuestro portfolio.
 </a>
 </td>
 <td>
-<a href="https://youtu.be/96B6gZV3Vwk">
-<img src="http://i3.ytimg.com/vi/96B6gZV3Vwk/maxresdefault.jpg">
+<a href="https://youtu.be/pFyAu4R684s">
+<img src="http://i3.ytimg.com/vi/pFyAu4R684s/maxresdefault.jpg">
 </a>
 </td>
 </tr>
