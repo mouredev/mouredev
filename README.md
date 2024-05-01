@@ -1,7 +1,7 @@
 # ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure 👋
 ### Freelance full-stack iOS & Android engineer
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+![https://github.com/mouredev](./mouredev_github_profile.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
@@ -10,36 +10,15 @@
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-Soy ingeniero de software profesional desde hace más de doce años.
+Soy ingeniero de software profesional desde 2010.
 
-En 2014 dejé mi trabajo en una multinacional y creé [**MoureDev**](https://mouredev.com), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
-Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 100 Apps y fundando mi propia startup.
+He trabajado en distintas multinacionales del sector, creando [MoureDev](https://moure.dev) en 2015 para dedicarme a desarrollar aplicaciones móviles a tiempo completo, llegando a colaborar con empresas de distintas partes del mundo. He desarrollado más de 150 proyectos (alcanzando el número 1 en 30 países) y he creado mi propia startup.
 
-En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear contenido de programación y compartir mi experiencia como desarrollador en plataformas como YouTube, Twitch o Udemy. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
+Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes sociales, compaginándolo con mi actividad como freelance. Nuestra comunidad de habla hispana sobre desarrollo desarrollo de software es una de las más grandes a nivel mundial (con cerca de dos millones de seguidores entre las distintas redes). Mi objetivo es devolver todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años, así como ayudar a que más personas puedan acceder a su estudio.
 
-> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
-
-## Tecnologías:
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
-[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
-</br>
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-</br>
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
-[![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
-</br>
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-</br>
-Y alguna más...
+> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) in Developer Technologies
+> 
+> ⭐️ [GitHub star](https://stars.github.com/profiles/mouredev/)
 
 ## Encuéntrame en:
 
@@ -54,38 +33,40 @@ Y alguna más...
 [![TikTok](https://img.shields.io/badge/TikTok-@mouredev-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@mouredev)
 [![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
 </br>
-[![Link](https://img.shields.io/badge/Link_Site-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)
+[![Link](https://img.shields.io/badge/Links-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
 [![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
 [![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
 
-## Mis guías de estudio iOS y Android:
-[![Apple](https://img.shields.io/github/stars/mouredev/Apple-Developer-Roadmap?label=Apple%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Apple-Developer-Roadmap)
-[![Android](https://img.shields.io/github/stars/mouredev/Android-Developer-Roadmap?label=Android%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Android-Developer-Roadmap)
+# Algunos proyectos de la comunidad
 
-# Los proyectos de la comunidad
+## Ruta de estudio programación
 
-## Retos de programación de la comunidad:
+<a href="https://retosdeprogramacion.com/roadmap"><img src="https://raw.githubusercontent.com/mouredev/roadmap-retos-programacion/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
 
-![https://retosdeprogramacion.com](./retos_programacion_banner.png)
+[![Roadmap](https://img.shields.io/github/stars/mouredev/roadmap-retos-programacion?label=Roadmap%20Programación&style=social)](https://github.com/mouredev/roadmap-retos-programacion)
 
-#### Cada semana un nuevo reto para mejorar nuestra lógica de programación desde [retosdeprogramacion.com](https://retosdeprogramacion.com)
+## SQL y bases de datos: Curso gratis
 
-[![GitHub Weekly 2023](https://img.shields.io/github/stars/mouredev/retos-programacion-2023?label=Retos%20Semanales%202023&style=social)](https://github.com/mouredev/retos-programacion-2023)
-[![GitHub Weekly Kotlin 2022](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Retos%20Semanales%202022&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
+<a href="https://mouredev.link/sql"><img src="https://raw.githubusercontent.com/mouredev/hello-sql/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
+
+[![Curso Git](https://img.shields.io/github/stars/mouredev/hello-sql?label=Curso%20SQL&style=social)](https://github.com/mouredev/hello-sql)
 
 ## Python desde cero: Curso gratis
-![https://mouredev.com/python](./python_banner.png)
+
+<a href="https://mouredev.link/python"><img src="https://raw.githubusercontent.com/mouredev/Hello-Python/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
 
 [![Curso Python](https://img.shields.io/github/stars/mouredev/hello-python?label=Curso%20Python%20desde%20cero&style=social)](https://github.com/mouredev/hello-python)
 
 ## Git & GitHub desde cero: Curso gratis
-![https://mouredev.com/git](./git_github_banner.png)
+
+<a href="https://mouredev.link/git"><img src="https://raw.githubusercontent.com/mouredev/hello-git/main/Media/header.jpg" style="height: 60%; width:60%;"/></a>
 
 [![Curso Git](https://img.shields.io/github/stars/mouredev/hello-git?label=Curso%20Git%20y%20GitHub&style=social)](https://github.com/mouredev/hello-git)
 
-## Un día, un lenguaje: Primeros pasos en 10 lenguajes
-![https://mouredev.com/lenguajes](./un_dia_un_lenguaje_banner.png)
+## Un día, un lenguaje: Primeros pasos en 11 lenguajes
+
+<a href="https://mouredev.link/lenguajes"><img src="https://raw.githubusercontent.com/mouredev/one-day-one-language/main/Media/header.jpg" style="height: 60%; width:60%;"/></a>
 
 [![Curso Lenguajes](https://img.shields.io/github/stars/mouredev/one-day-one-language?label=Un%20día,%20un%20lenguaje&style=social)](https://github.com/mouredev/one-day-one-language)
 
@@ -99,8 +80,8 @@ Y alguna más...
 </a>
 </td>
 <td>
-<a href="https://youtu.be/-pWSQYpkkjk">
-<img src="http://i3.ytimg.com/vi/-pWSQYpkkjk/maxresdefault.jpg">
+<a href="https://youtu.be/3UCZltG8iCY">
+<img src="http://i3.ytimg.com/vi/3UCZltG8iCY/maxresdefault.jpg">
 </a>
 </td>
 <td>
@@ -116,39 +97,34 @@ Y alguna más...
 </a>
 </td>
 <td>
-<a href="https://youtu.be/GoAxsdg0Xbs">
-<img src="http://i3.ytimg.com/vi/GoAxsdg0Xbs/maxresdefault.jpg">
+<a href="https://youtu.be/G0ga_YVQOaw">
+<img src="http://i3.ytimg.com/vi/G0ga_YVQOaw/maxresdefault.jpg">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/pFyAu4R684s">
-<img src="http://i3.ytimg.com/vi/pFyAu4R684s/maxresdefault.jpg">
+<a href="https://youtu.be/NJacVZx2fv8">
+<img src="http://i3.ytimg.com/vi/NJacVZx2fv8/maxresdefault.jpg">
 </a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://youtu.be/BQaxPwZWboA">
-<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
+<a href="https://youtu.be/_y9qQZXE24A">
+<img src="http://i3.ytimg.com/vi/_y9qQZXE24A/maxresdefault.jpg">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/Wfh0FYR0z6I">
-<img src="http://i3.ytimg.com/vi/Wfh0FYR0z6I/maxresdefault.jpg">
+<a href="https://youtu.be/mIVbUb7shE8">
+<img src="http://i3.ytimg.com/vi/mIVbUb7shE8/maxresdefault.jpg">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/ebQphhLpJG0">
-<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
+<a href="https://youtu.be/zFbTXe1yFGA">
+<img src="http://i3.ytimg.com/vi/zFbTXe1yFGA/maxresdefault.jpg">
 </a>
 </td>
 </tr>
 </table>
-
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
-
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
-
 
 ## Contacto y apoyo:
 
