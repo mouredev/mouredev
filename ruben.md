@@ -1,2 +1,2 @@
-# Si estás participando en el curso. Haz un fork del proyecto, añade tu usuario de GitHub en una nueva línea
+# Estoy participando actualmente en el curso a través del vídeo y el libro. Gracias por el aporte!
 rubenbalado
