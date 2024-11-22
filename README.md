@@ -38,6 +38,16 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 [![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
 [![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
 
+# Únete al campus de programación de la comunidad
+
+![https://mouredev.pro](./pro.jpg)
+
+#### Te presento [mouredev pro](https://mouredev.pro), mi proyecto más importante para ayudarte a estudiar programación y desarrollo de software de manera diferente.
+
+> **¿Buscas un extra?** Aquí encontrarás mis cursos editados por lecciones individuales, para avanzar a tu ritmo y guardar el progreso. También dispondrás de ejercicios y correcciones, test para validar tus conocimientos, examen y certificado público de finalización, soporte, foro de estudiantes, reunionnes grupales, cursos exclusivos y mucho más.
+> 
+> Entra en **[mouredev.pro](https://mouredev.pro)** y utiliza el cupón **"PRO"** con un 10% de descuento en tu primera suscripción.
+
 # Algunos proyectos de la comunidad
 
 ## Ruta de estudio programación
@@ -46,17 +56,17 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 
 [![Roadmap](https://img.shields.io/github/stars/mouredev/roadmap-retos-programacion?label=Roadmap%20Programación&style=social)](https://github.com/mouredev/roadmap-retos-programacion)
 
-## SQL y bases de datos: Curso gratis
-
-<a href="https://mouredev.link/sql"><img src="https://raw.githubusercontent.com/mouredev/hello-sql/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
-
-[![Curso Git](https://img.shields.io/github/stars/mouredev/hello-sql?label=Curso%20SQL&style=social)](https://github.com/mouredev/hello-sql)
-
 ## Python desde cero: Curso gratis
 
 <a href="https://mouredev.link/python"><img src="https://raw.githubusercontent.com/mouredev/Hello-Python/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
 
 [![Curso Python](https://img.shields.io/github/stars/mouredev/hello-python?label=Curso%20Python%20desde%20cero&style=social)](https://github.com/mouredev/hello-python)
+
+## JavaScript desde cero: Curso gratis
+
+<a href="https://mouredev.link/python"><img src="https://raw.githubusercontent.com/mouredev/hello-javascript/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
+
+[![Curso JavaScript](https://img.shields.io/github/stars/mouredev/hello-javascript?label=Curso%20JavaScript%20desde%20cero&style=social)](https://github.com/mouredev/hello-javascript)
 
 ## Git & GitHub desde cero: Curso gratis
 
@@ -69,6 +79,13 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 <a href="https://mouredev.link/lenguajes"><img src="https://raw.githubusercontent.com/mouredev/one-day-one-language/main/Media/header.jpg" style="height: 60%; width:60%;"/></a>
 
 [![Curso Lenguajes](https://img.shields.io/github/stars/mouredev/one-day-one-language?label=Un%20día,%20un%20lenguaje&style=social)](https://github.com/mouredev/one-day-one-language)
+
+
+## SQL y bases de datos: Curso gratis
+
+<a href="https://mouredev.link/sql"><img src="https://raw.githubusercontent.com/mouredev/hello-sql/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
+
+[![Curso Git](https://img.shields.io/github/stars/mouredev/hello-sql?label=Curso%20SQL&style=social)](https://github.com/mouredev/hello-sql)
 
 ## Algunos vídeos en YouTube:
 
