@@ -1,5 +1,5 @@
 # ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure 👋
-### Freelance full-stack iOS & Android engineer
+### Freelance fullstack iOS & Android engineer
 
 ![https://github.com/mouredev](./mouredev_github_profile.png)
 
@@ -33,7 +33,7 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 [![TikTok](https://img.shields.io/badge/TikTok-@mouredev-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@mouredev)
 [![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
 </br>
-[![Link](https://img.shields.io/badge/Links-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)
+[![Link](https://img.shields.io/badge/Links-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
 [![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
 [![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
@@ -49,12 +49,6 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 > Entra en **[mouredev.pro](https://mouredev.pro)** y utiliza el cupón **"PRO"** con un 10% de descuento en tu primera suscripción.
 
 # Algunos proyectos de la comunidad
-
-## Ruta de estudio programación
-
-<a href="https://retosdeprogramacion.com/roadmap"><img src="https://raw.githubusercontent.com/mouredev/roadmap-retos-programacion/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
-
-[![Roadmap](https://img.shields.io/github/stars/mouredev/roadmap-retos-programacion?label=Roadmap%20Programación&style=social)](https://github.com/mouredev/roadmap-retos-programacion)
 
 ## Python desde cero: Curso gratis
 
@@ -79,6 +73,12 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 <a href="https://mouredev.link/lenguajes"><img src="https://raw.githubusercontent.com/mouredev/one-day-one-language/main/Media/header.jpg" style="height: 60%; width:60%;"/></a>
 
 [![Curso Lenguajes](https://img.shields.io/github/stars/mouredev/one-day-one-language?label=Un%20día,%20un%20lenguaje&style=social)](https://github.com/mouredev/one-day-one-language)
+
+## Ruta de estudio programación
+
+<a href="https://retosdeprogramacion.com/roadmap"><img src="https://raw.githubusercontent.com/mouredev/roadmap-retos-programacion/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
+
+[![Roadmap](https://img.shields.io/github/stars/mouredev/roadmap-retos-programacion?label=Roadmap%20Programación&style=social)](https://github.com/mouredev/roadmap-retos-programacion)
 
 
 ## SQL y bases de datos: Curso gratis
