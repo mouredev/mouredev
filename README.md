@@ -58,9 +58,15 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 
 ## JavaScript desde cero: Curso gratis
 
-<a href="https://mouredev.link/python"><img src="https://raw.githubusercontent.com/mouredev/hello-javascript/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
+<a href="https://mouredev.link/javascript"><img src="https://raw.githubusercontent.com/mouredev/hello-javascript/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
 
 [![Curso JavaScript](https://img.shields.io/github/stars/mouredev/hello-javascript?label=Curso%20JavaScript%20desde%20cero&style=social)](https://github.com/mouredev/hello-javascript)
+
+## Java desde cero: Curso gratis
+
+<a href="https://mouredev.link/java"><img src="https://raw.githubusercontent.com/mouredev/hello-java/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
+
+[![Curso Java](https://img.shields.io/github/stars/mouredev/hello-java?label=Curso%20Java%20desde%20cero&style=social)](https://github.com/mouredev/hello-java)
 
 ## Git & GitHub desde cero: Curso gratis
 
