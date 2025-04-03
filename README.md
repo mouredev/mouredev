@@ -1,4 +1,5 @@
 # ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure 👋
+
 ### Freelance fullstack iOS & Android engineer
 
 ![https://github.com/mouredev](./mouredev_github_profile.png)
@@ -17,7 +18,7 @@ He trabajado en distintas multinacionales del sector, creando [MoureDev](https:/
 Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes sociales, compaginándolo con mi actividad como freelance. Nuestra comunidad de habla hispana sobre desarrollo de software es una de las más grandes a nivel mundial (con cerca de dos millones de seguidores entre las distintas redes). Mi objetivo es devolver todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años, así como ayudar a que más personas puedan acceder a su estudio.
 
 > 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) in Developer Technologies
-> 
+>
 > ⭐️ [GitHub star](https://stars.github.com/profiles/mouredev/)
 
 ## Encuéntrame en:
@@ -45,7 +46,7 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 #### Te presento [mouredev pro](https://mouredev.pro), mi proyecto más importante para ayudarte a estudiar programación y desarrollo de software de manera diferente.
 
 > **¿Buscas un extra?** Aquí encontrarás mis cursos editados por lecciones individuales, para avanzar a tu ritmo y guardar el progreso. También dispondrás de ejercicios y correcciones, test para validar tus conocimientos, examen y certificado público de finalización, soporte, foro de estudiantes, reunionnes grupales, cursos exclusivos y mucho más.
-> 
+>
 > Entra en **[mouredev.pro](https://mouredev.pro)** y utiliza el cupón **"PRO"** con un 10% de descuento en tu primera suscripción.
 
 # Algunos proyectos de la comunidad
@@ -85,7 +86,6 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 <a href="https://retosdeprogramacion.com/roadmap"><img src="https://raw.githubusercontent.com/mouredev/roadmap-retos-programacion/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
 
 [![Roadmap](https://img.shields.io/github/stars/mouredev/roadmap-retos-programacion?label=Roadmap%20Programación&style=social)](https://github.com/mouredev/roadmap-retos-programacion)
-
 
 ## SQL y bases de datos: Curso gratis
 
@@ -149,10 +149,10 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 </tr>
 </table>
 
-## Contacto y apoyo:
+### Contacto y apoyo:
 
-[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
+[![MyPublicInbox](<https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010>)](https://mypublicinbox.com/mouredev)
 </br>
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+[![Email](<https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010>)](mailto:braismoure@mouredev.com)
 </br>
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
